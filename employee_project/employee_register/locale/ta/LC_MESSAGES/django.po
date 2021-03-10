@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-06 16:50+0300\n"
+"PO-Revision-Date: 2021-03-10 09:12+0300\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: .\templates\employee_register\employee_form.html:22 .\views.py:25
+msgid "Submit"
+msgstr "பதிவு சேய்தள்"
+
+#: .\templates\employee_register\employee_form.html:28 .\views.py:25
+msgid "Back to list"
+msgstr "பட்டியலுக்கு த் திரும்பு"
+
+#: .\templates\employee_register\employee_form.html:11 .\views.py:25
+msgid "Employee Register"
+msgstr "ஊழியர் பதிவேடு"
+
+#: .\templates\employee_register\employee_form.html:12 .\views.py:25
+msgid "Python Django project for implementing CRUD operation"
+msgstr "CRUD செயல்பாட்டை செயல்படுத்துவதற்கான பைதான் டிஜாங்கோ திட்டம்"
+
+#: .\templates\employee_register\employee_form.html:19 .\forms.py:12
+msgid "Full Name"
+msgstr "முழுப் பெயர்"
+
+#: .\templates\employee_register\employee_form.html:20 .\forms.py:13
+msgid "Mobile"
+msgstr "இயங்குகிற"
+
+#: .\templates\employee_register\employee_form.html:23 .\forms.py:14
+msgid "EMP.Code"
+msgstr "EMP. சட்டத்தொகுப்பேடு"
+
+#: .\templates\employee_register\employee_form.html:26 .\forms.py:15
+msgid "Position"
+msgstr "நிலை"
+
+#: .\templates\employee_register\employee_list.html:17
+msgid "Full Name1"
+msgstr "முழு பெயர்"
+
+#: .\templates\employee_register\employee_list.html:19
+msgid "Mobile1"
+msgstr "மொபைல்"
+
+#: .\templates\employee_register\employee_list.html:19
+msgid "Position1"
+msgstr "நிலை"
+
+#: .\templates\employee_register\employee_list.html:22
+msgid "Add New"
+msgstr "புதியனவற்றை சேர்"
+
+#: .\templates\employee_register\index.html:23 .\views.py:21
+msgid "Welcome to python course"
+msgstr "பைதான் பாடத்திற்கு வருக"

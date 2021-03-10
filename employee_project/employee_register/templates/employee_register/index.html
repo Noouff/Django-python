@@ -1,0 +1,30 @@
+{% extends "employee_register/base.html" %}
+{% load crispy_forms_tags %}
+{% load i18n %} 
+{% load static %}
+
+
+{% block content %}
+
+<style>
+    body{
+        background-color: #e9ecef;;
+    }
+    .home{
+        color: black;
+        text-align: center;
+    }
+</style>
+<body>
+    <br>
+    <br>
+    <center>
+        <h3 class="home" >
+            {% translate "Welcome to python course" %}
+        </h3>
+
+        <img src="{% static 'images/py.png' %}"  width="300" height="300">
+    </center>
+</body>
+
+{% endblock content %}

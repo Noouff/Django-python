@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-06 16:49+0300\n"
+"PO-Revision-Date: 2021-03-10 09:04+0300\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: .\templates\employee_register\employee_form.html:22 .\views.py:25
+msgid "Submit"
+msgstr "إرسال"
+
+#: .\templates\employee_register\employee_form.html:28 .\views.py:25
+msgid "Back to list"
+msgstr "العودة الى القائمة"
+
+#: .\templates\employee_register\employee_form.html:11 .\views.py:25
+msgid "Employee Register"
+msgstr "سجل الموظفين"
+
+#: .\templates\employee_register\employee_form.html:12 .\views.py:25
+msgid "Python Django project for implementing CRUD operation"
+msgstr "مشروع بيثون جانغو لتنفيذ عملية CRUD"
+
+#: .\templates\employee_register\employee_form.html:19 .\forms.py:12
+msgid "Full Name"
+msgstr "الإسم الكامل"
+
+#: .\templates\employee_register\employee_form.html:20 .\forms.py:13
+msgid "Mobile"
+msgstr "الجوال"
+
+#: .\templates\employee_register\employee_form.html:23 .\forms.py:14
+msgid "EMP.Code"
+msgstr "الرقم الوظيفي"
+
+#: .\templates\employee_register\employee_form.html:26 .\forms.py:15
+msgid "Position"
+msgstr "الوظيفة"
+
+#: .\templates\employee_register\employee_list.html:17
+msgid "Full Name1"
+msgstr "الاسم الكامل"
+
+#: .\templates\employee_register\employee_list.html:19
+msgid "Mobile1"
+msgstr "الجوال"
+
+#: .\templates\employee_register\employee_list.html:19
+msgid "Position1"
+msgstr "الوظيفة"
+
+#: .\templates\employee_register\employee_list.html:22
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: .\templates\employee_register\index.html:23 .\views.py:21
+msgid "Welcome to python course"
+msgstr "مرحبا بكم في دورة  بايثون"
